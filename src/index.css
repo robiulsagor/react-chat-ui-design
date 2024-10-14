@@ -11,7 +11,7 @@
 }
 
 .received{
-    @apply self-end rounded-br-none
+    @apply self-end rounded-br-none bg-white
 }
 
 ::-webkit-scrollbar{

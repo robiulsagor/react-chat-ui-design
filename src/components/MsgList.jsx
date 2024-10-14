@@ -8,7 +8,7 @@ const MsgList = () => {
                 <div className="msg-container sent">
                     <div className="mb-2 text-center flex flex-col gap-[2px]">
                         <h2 className="font-bold text-sm">Michel Johnson</h2>
-                        <span className="text-xs text-slate-700">Today, 11:10</span>
+                        <span className="text-xs text-[#bbc9df]">Today, 11:10</span>
                     </div>
                     <p className="text-sm text-justify font-semibold">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Excepturi asperiores labore perferendis amet porro quod nesciunt, assumenda debitis earum laudantium?</p>
                 </div>
@@ -16,7 +16,7 @@ const MsgList = () => {
                 <div className="msg-container received">
                     <div className="mb-2 text-center flex flex-col gap-[2px]">
                         <h2 className="font-bold text-sm text-gray-600">AI Assistant</h2>
-                        <span className="text-xs text-slate-700">Today, 11:12</span>
+                        <span className="text-xs text-[#bbc9df]">Today, 11:12</span>
                     </div>
                     <p className="text-sm text-justify font-semibold text-gray-500">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Excepturi asperiores labore perferendis amet porro quod nesciunt, assumenda debitis earum laudantium? <br /><br />
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, iusto itaque! Consequatur esse, natus eaque minus et, provident, blanditiis doloremque expedita voluptates totam vitae reprehenderit quis! Incidunt!</p>
@@ -25,7 +25,7 @@ const MsgList = () => {
                 <div className="msg-container sent">
                     <div className="mb-2 text-center flex flex-col gap-[2px]">
                         <h2 className="font-bold text-sm">Michel Johnson</h2>
-                        <span className="text-xs text-slate-700">Today, 11:10</span>
+                        <span className="text-xs text-[#bbc9df]">Today, 11:10</span>
                     </div>
                     <p className="text-sm text-justify font-semibold">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Excepturi asperiores labore perferendis amet porro quod nesciunt, assumenda debitis earum laudantium?</p>
                 </div>
@@ -33,7 +33,7 @@ const MsgList = () => {
                 <div className="msg-container received">
                     <div className="mb-2 text-center flex flex-col gap-[2px]">
                         <h2 className="font-bold text-sm text-gray-600">AI Assistant</h2>
-                        <span className="text-xs text-slate-700">Today, 11:12</span>
+                        <span className="text-xs text-[#bbc9df]">Today, 11:12</span>
                     </div>
                     <p className="text-sm text-justify font-semibold text-gray-500">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Excepturi asperiores labore perferendis amet porro quod nesciunt, assumenda debitis earum laudantium? <br /><br />
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, iusto itaque! Consequatur esse, natus eaque minus et, provident, blanditiis doloremque expedita voluptates totam vitae reprehenderit quis! Incidunt!</p>
@@ -42,7 +42,7 @@ const MsgList = () => {
                 <div className="msg-container sent">
                     <div className="mb-2 text-center flex flex-col gap-[2px]">
                         <h2 className="font-bold text-sm">Michel Johnson</h2>
-                        <span className="text-xs text-slate-700">Today, 11:10</span>
+                        <span className="text-xs text-[#bbc9df]">Today, 11:10</span>
                     </div>
                     <p className="text-sm text-justify font-semibold">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Excepturi asperiores labore perferendis amet porro quod nesciunt, assumenda debitis earum laudantium?</p>
                 </div>
@@ -50,7 +50,7 @@ const MsgList = () => {
                 <div className="msg-container received">
                     <div className="mb-2 text-center flex flex-col gap-[2px]">
                         <h2 className="font-bold text-sm text-gray-600">AI Assistant</h2>
-                        <span className="text-xs text-slate-700">Today, 11:12</span>
+                        <span className="text-xs text-[#bbc9df]">Today, 11:12</span>
                     </div>
                     <p className="text-sm text-justify font-semibold text-gray-500">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Excepturi asperiores labore perferendis amet porro quod nesciunt, assumenda debitis earum laudantium? <br /><br />
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, iusto itaque! Consequatur esse, natus eaque minus et, provident, blanditiis doloremque expedita voluptates totam vitae reprehenderit quis! Incidunt!</p>
